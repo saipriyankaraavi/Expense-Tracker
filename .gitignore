@@ -1,0 +1,11 @@
+# Database
+expenses.db
+
+# Python cache
+_pycache_/
+
+# Virtual environment
+venv/
+
+# PyCharm files
+.idea/
